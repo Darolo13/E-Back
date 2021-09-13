@@ -6,6 +6,7 @@
 * [NPM modules Used](#node-modules-used)
 * [Features](#features)
 * [Installation](#installation)
+* [Demo](#demo-video)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 
@@ -45,6 +46,9 @@ Ready Features:
 To use this project, Please use:
 
 `npm install`
+
+## Demo Video
+[Click to play the video!](https://drive.google.com/file/d/1TIUMvEB6kM9oqYxmz3hLwkdpk4Lc1dRR/view?usp=sharing) 
 
 ## Project Status
 Project is: _in progress_
